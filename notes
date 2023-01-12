@@ -1,0 +1,8 @@
+while loop
+we used to help us to repeat code.
+Why should we sed while loop
+because manually coping and pasting is very bad and iis not scalable.
+Syntax WhileLoop
+while (condition){  // condition always should be boolean
+code we want to repeat
+}
