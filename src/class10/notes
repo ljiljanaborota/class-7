@@ -1,0 +1,10 @@
+arrays in Java
+allow us to store multiple values in a single variable..
+if we have to store a lot of value.its become very hard  to manage
+we can create arrays in two different ways
+first way:
+Datatype[] arr={element 1,element 2,element 3};
+System.out.println(arr[]);
+second way:
+Datatype[] arr=[element 1,element 2,element 3};
+System.out.println(arr[]);
