@@ -1,0 +1,33 @@
+2D Arrays are arrays that contain 1D Arrays
+they allow us to store multiple 1D arrays which gives us more flexibility to store data.
+for example if we have to store data from Exel files we can use 2D Arrays
+SYNTAX to create 2D arrays
+first way
+DataType[][] nameOfArray=new DataType[SizeofRows][];
+second way
+DataType[][] nameOfArray= {{data,data,data},{data,data},{data,data,data,data}};
+
+OOP   OBJECT ORIENTED PROGRAMING
+is nothing but some set of rules that if we follow we achieve below.
+1).representing real life entities become easier.
+2).  Code repetition id minimized
+3). Changing existing code and adding new features become easier
+4). helps write secure code
+5).
+
+
+Object-oriented programming is a way to write computer programs using "objects" which are like little toy models of
+real-world things.
+ Each object has its own little set of instructions called "methods" that tell it what to do, and it also has its own
+  little bits of information called "properties" or "attributes" that describe it.
+
+For example, let's say we want to make a toy car. We can create a "Car" class which is like a blueprint for the toy car.
+It will have instructions for things like driving and honking and it also has properties like "color" and
+"numberOfWheels". Then we can use that blueprint to make many toy cars, each one can be different, like one can be red
+ and one can be blue. and each one will have its own set of instructions and information.
+
+Java is a programming language that uses object-oriented programming, which means we can use classes and objects
+ to make our programs.
+
+It's like legos, you have a lego instruction set and each lego piece has its own set of properties, and you use
+them to build something new and unique.                                (i asked open ai to explain me most basic way)
